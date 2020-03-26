@@ -1,0 +1,1 @@
+docker exec -it docker-node pm2 monit

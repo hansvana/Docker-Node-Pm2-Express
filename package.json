@@ -1,0 +1,12 @@
+{
+    "name": "docker-node-pm2-express",
+    "version": "2020.0.1",
+    "description": "A template to set up a Docker container with Node, Express, jsonfile and body-parser, monitored by PM2",
+    "author": "Hans van Arken <hans@hans.lv> (http://hans.lv)",
+    "scripts": {},
+    "dependencies": {
+        "express": "^4.17.1",
+        "body-parser": "^1.19.0",
+        "jsonfile": "^6.0.1"
+    }
+}
